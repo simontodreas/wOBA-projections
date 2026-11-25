@@ -1,0 +1,17 @@
+# Kept locally, not published
+brs_modeling_framework.md
+brs_problem_set_2027.docx
+CLAUDE.md
+archive/
+
+# Provided input data
+*.csv
+
+# Python / Jupyter / macOS
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Cached Statcast pulls (data.load_statcast)
+cache/
